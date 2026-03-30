@@ -80,5 +80,3 @@ Mtwalume High School
    High School Educator
    063 800 8392
 
-## References
-Available upon request
