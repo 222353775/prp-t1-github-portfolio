@@ -12,7 +12,7 @@ sheziminathi27@gmail.com
 ---
 
 ## Career Objective
-I am an ICT Application Development student seeking a Work Integrated Learning (WIL) opportunity. I aim to apply my programming, problem-solving, and software development skills in a real-world environment while gaining industry experience.
+I am an ICT Application Development student seeking a Work Integrated Learning (WIL) opportunity. I aim to apply my programming, problem-solving, and software development skills in a real-world environment while gaining practical industry experience and enhancing my technical competencies.
 
 ---
 
@@ -28,13 +28,13 @@ Mtwalume High School
 
 ## Technical Skills
 - Java (Object-Oriented Programming)  
-- Spring Boot & JPA (Basic Backend Development)  
+- Spring Boot & JPA (Backend Development)  
 - SQL & Relational Databases (MySQL)  
-- Git & GitHub (Version Control & Collaboration)  
+- Git & GitHub (Version Control and Collaboration)  
 - Software Testing (JUnit)  
 - Layered Architecture (Controller, Service, Repository)  
 - Design Patterns (Builder Pattern)  
-- Basic UI Design (JavaFX / Frontend Concepts)  
+- Basic UI Design (JavaFX and Frontend Concepts)  
 
 ---
 
@@ -43,13 +43,13 @@ Mtwalume High School
 ### Shuttle Booking System  
 **Tech:** Java, Spring Boot, JPA, MySQL, GitHub  
 
-- Developed a backend system for managing shuttle bookings and ticket generation  
+- Developed backend functionality for managing shuttle bookings and ticket generation  
 - Designed and implemented **QRCode** and **Ticket** entities using JPA  
-- Established relationships between entities (One-to-One and Many-to-One)  
-- Applied the Builder design pattern for object creation  
-- Implemented Domain, Factory, Repository, and Service layers  
-- Responsible for QR code functionality used for ticket verification  
-- Collaborated in a team where each member handled a specific entity  
+- Established entity relationships (One-to-One and Many-to-One) for system integrity  
+- Applied the Builder design pattern to improve object creation and maintainability  
+- Implemented structured layers including Domain, Factory, Repository, and Service  
+- Responsible for QR code functionality used in ticket verification  
+- Collaborated in a team-based environment with defined individual responsibilities  
 
 GitHub: https://github.com/Shuttle-Booking-System/busBuddy.git  
 
@@ -58,13 +58,13 @@ GitHub: https://github.com/Shuttle-Booking-System/busBuddy.git
 ### Hotel Booking Application  
 **Tech:** Java, Spring Boot, JPA, MySQL, GitHub  
 
-- Developed a hotel booking system to manage rooms and users  
-- Designed and implemented the **Review entity** for customer feedback  
-- Created relationships between User and Room using JPA  
-- Implemented rating, comments, and timestamp functionality  
-- Applied Builder pattern for clean object creation  
-- Developed Controller, Factory, Repository, and Service layers for Review  
-- Worked in a team where each member was responsible for a specific entity  
+- Developed a system for managing hotel rooms, users, and bookings  
+- Designed and implemented the **Review entity** to support customer feedback  
+- Created relationships between User and Room entities using JPA  
+- Implemented rating, comment, and timestamp features for review tracking  
+- Applied the Builder pattern to enhance code structure and flexibility  
+- Contributed to Controller, Factory, Repository, and Service layers  
+- Participated in a team where each member handled a specific domain entity  
 
 GitHub: https://github.com/Amanda-Satu/HotelBooking.git  
 
@@ -72,13 +72,13 @@ GitHub: https://github.com/Amanda-Satu/HotelBooking.git
 
 ## Reflection on Project Development  
 
-During my project development experience, I worked in team-based environments where each member was responsible for a specific part of the system. My main responsibility was focused on backend development, including QR code and ticket management for the shuttle system, as well as the review functionality for the hotel booking system. I designed and implemented entities using Java and JPA, applied object-oriented programming principles, and used the Builder design pattern to improve code structure. I also contributed to the layered architecture by working with repository and service components, while using GitHub for collaboration and version control. As a result, I was able to successfully develop functional backend components and significantly improve my understanding of real-world system design, teamwork, and problem-solving.
+Working on these projects provided valuable experience in applying theoretical knowledge to practical, real-world scenarios. As part of a team, I was responsible for backend development tasks, including implementing QR code and ticket management in the shuttle system and developing the review functionality in the hotel booking system. Through this process, I strengthened my understanding of object-oriented programming, entity relationships using JPA, and the importance of structured system architecture. I also gained experience working within layered architectures and using GitHub for collaboration and version control. These projects improved my problem-solving abilities, technical confidence, and ability to work effectively in a team environment.
 
 ---
 
 ## Reflection on Coding in Markdown  
 
-This was my first experience working with Markdown to create a professional digital portfolio. Initially, I found it challenging to understand the syntax and formatting structure. However, through practice, I learned how to organise content using headings, lists, links, and embedded media such as videos. I focused on creating a clean, readable, and well-structured layout suitable for GitHub. As a result, I successfully developed a professional-looking portfolio and improved my ability to document and present technical work effectively.
+Creating this portfolio introduced me to Markdown as a tool for structuring and presenting technical content. At first, understanding the syntax and formatting rules was challenging, but through consistent practice, I learned how to organise information clearly using headings, lists, links, and embedded elements. This experience highlighted the importance of clear documentation and professional presentation in software development. As a result, I was able to produce a well-structured and readable portfolio that effectively communicates my skills and experience.
 
 ---
 
@@ -95,7 +95,7 @@ allowfullscreen>
 
 ## Reflection on Mock Interview  
 
-Participating in the mock interview was an important learning experience that helped me understand what is expected in a professional interview setting. My task was to present myself confidently and respond effectively to interview questions. I prepared by practising my answers and focusing on clear communication, confidence, and body language. During the interview, I realised the importance of structuring responses and maintaining professionalism. As a result, I gained confidence in my ability to handle interviews and identified areas for improvement, particularly in communication and presentation skills.
+The mock interview was a valuable opportunity to experience a professional interview setting and assess my readiness for the workplace. I prepared by practising responses and focusing on improving my communication skills, confidence, and body language. During the interview, I became more aware of the importance of structuring answers clearly and presenting myself professionally. This experience helped me build confidence and highlighted areas for improvement, particularly in communication and response delivery. Overall, it contributed to my personal and professional development.
 
 ---
 
