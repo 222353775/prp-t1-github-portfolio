@@ -24,24 +24,17 @@ Cape Peninsula University of Technology
 **National Senior Certificate (NSC)**  
 Mtwalume High School  
 
-**Subjects:**
-- Accounting  
-- Mathematical Literacy  
-- Computer Applications Technology  
-- Business Studies  
-- IsiZulu HL  
-- English FAL  
-- Life Orientation  
-
 ---
 
-## Skills
-- Java Programming  
-- Object-Oriented Programming  
-- GitHub Version Control  
-- SQL / Databases  
+## Technical Skills
+- Java (Object-Oriented Programming)  
+- Spring Boot & JPA (Basic Backend Development)  
+- SQL & Relational Databases (MySQL)  
+- Git & GitHub (Version Control & Collaboration)  
 - Software Testing (JUnit)  
-- Basic UI Design  
+- Layered Architecture (Controller, Service, Repository)  
+- Design Patterns (Builder Pattern)  
+- Basic UI Design (JavaFX / Frontend Concepts)  
 
 ---
 
@@ -77,35 +70,15 @@ GitHub: https://github.com/Amanda-Satu/HotelBooking.git
 
 ---
 
-## Reflection on Project Development 
+## Reflection on Project Development  
 
-**Situation:**  
-I worked on group-based software development projects where each member was responsible for a specific system component.
-
-**Task:**  
-My role was to develop backend functionality, including QR code and ticket management for the shuttle system, and the review functionality for the hotel system.
-
-**Action:**  
-I designed and implemented entities using Java and JPA, applied object-oriented principles, and used the Builder pattern. I also contributed to layered architecture including repository and service layers and used GitHub for collaboration.
-
-**Result:**  
-I successfully developed functional backend components and improved my understanding of real-world system design, teamwork, and problem-solving.
+During my project development experience, I worked in team-based environments where each member was responsible for a specific part of the system. My main responsibility was focused on backend development, including QR code and ticket management for the shuttle system, as well as the review functionality for the hotel booking system. I designed and implemented entities using Java and JPA, applied object-oriented programming principles, and used the Builder design pattern to improve code structure. I also contributed to the layered architecture by working with repository and service components, while using GitHub for collaboration and version control. As a result, I was able to successfully develop functional backend components and significantly improve my understanding of real-world system design, teamwork, and problem-solving.
 
 ---
 
-## Reflection on Coding in Markdown 
+## Reflection on Coding in Markdown  
 
-**Situation:**  
-This was my first time using Markdown to create a professional portfolio.
-
-**Task:**  
-I needed to structure my CV and portfolio content clearly using Markdown syntax.
-
-**Action:**  
-I learned how to format text using headings, lists, links, and embedded media. I practised writing clean and organised content suitable for GitHub.
-
-**Result:**  
-I successfully created a structured and professional digital portfolio. I improved my documentation and presentation skills.
+This was my first experience working with Markdown to create a professional digital portfolio. Initially, I found it challenging to understand the syntax and formatting structure. However, through practice, I learned how to organise content using headings, lists, links, and embedded media such as videos. I focused on creating a clean, readable, and well-structured layout suitable for GitHub. As a result, I successfully developed a professional-looking portfolio and improved my ability to document and present technical work effectively.
 
 ---
 
@@ -120,19 +93,9 @@ allowfullscreen>
 
 ---
 
-## Reflection on Mock Interview (STAR Method)
+## Reflection on Mock Interview  
 
-**Situation:**  
-I participated in a mock interview as part of my work readiness training.
-
-**Task:**  
-I needed to present myself professionally and answer interview questions confidently.
-
-**Action:**  
-I prepared answers, practised communication skills, and recorded my interview. I focused on improving clarity, confidence, and body language.
-
-**Result:**  
-I gained confidence in answering interview questions and identified areas for improvement such as communication and presentation skills.
+Participating in the mock interview was an important learning experience that helped me understand what is expected in a professional interview setting. My task was to present myself confidently and respond effectively to interview questions. I prepared by practising my answers and focusing on clear communication, confidence, and body language. During the interview, I realised the importance of structuring responses and maintaining professionalism. As a result, I gained confidence in my ability to handle interviews and identified areas for improvement, particularly in communication and presentation skills.
 
 ---
 
