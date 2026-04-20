@@ -77,7 +77,7 @@ GitHub: https://github.com/Amanda-Satu/HotelBooking.git
 
 ---
 
-## Reflection on Project Development (STAR Method)
+## Reflection on Project Development 
 
 **Situation:**  
 I worked on group-based software development projects where each member was responsible for a specific system component.
@@ -93,7 +93,7 @@ I successfully developed functional backend components and improved my understan
 
 ---
 
-## Reflection on Coding in Markdown (STAR Method)
+## Reflection on Coding in Markdown 
 
 **Situation:**  
 This was my first time using Markdown to create a professional portfolio.
